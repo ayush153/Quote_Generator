@@ -1,2 +1,2 @@
 # Quote_Generator
-https://ak-quote-generator.netlify.app/
+https://ak-quotes-generator.netlify.app/
